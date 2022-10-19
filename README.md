@@ -8,3 +8,5 @@
 4)https://docs.google.com/spreadsheets/d/1MgXdfrGgw0HSR6xOdPS2MnclB4UWhOLk/edit#gid=968914924 - 19.09.2022. ЖКХ база данных.(Усмонов,Калакуцкий,Попов,Островский С.)
 
 5)https://docs.google.com/document/d/13XvPIDtjI2KFOHQqxfct_9-2376BDuopFF-8kbtPmdk/edit - Знакомство с командами SQL. Конспект от 27.09.2022.(Усмонов,Калакуцкий,Попов,Островский С.)
+
+6) https://docs.google.com/document/d/1Jfs14BLyh-w5DgmH95y4T5DWduoSKwF2_thzQwojjp4/edit - ER-диаграмма по фитнесу центру.
